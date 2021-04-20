@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @hanklofish
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# @hanklofish (Hank)
+Hello world! Here you can find all sorts of stuff in Hank's profile.
+## Links
+[reddit](https://www.reddit.com/u/hanklofish), the front page of the internet  
+[GitHub](https://www.github.com/hanklofish), where the world builds software
+## Contact Me
+Email `hanklofish@gmail.com`  
+Discord `hanklofish#5925`  
 
 <!---
 hanklofish/hanklofish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
