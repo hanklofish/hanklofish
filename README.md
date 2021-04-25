@@ -5,7 +5,6 @@ Hello world! Here you can find all sorts of stuff in Hank's profile.
 [GitHub](https://www.github.com/hanklofish), where the world builds software  
 [Discord](https://discord.com/users/828300430332526632), your place to talk
 ## Contact Me
-Email `hanklofish@gmail.com`  
 Discord `hanklofish#5925`  
 
 <!---
