@@ -1,5 +1,5 @@
-# @hanklofish (Hank)
-Hello world! Here you can find all sorts of stuff in Hank's profile.
+# @hanklofish (Edwina Chang)
+Hello world! Here you can find all sorts of stuff in Edwina's profile.
 ## Links
 [Reddit](https://www.reddit.com/u/hanklofish), the front page of the internet  
 [GitHub](https://www.github.com/hanklofish), where the world builds software  
